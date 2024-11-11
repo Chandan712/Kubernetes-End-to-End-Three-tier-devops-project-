@@ -1,1 +1,1 @@
-# Kubernetes-End-to-End-Three-tier-devops-project-
+# End-to-End-Kubernetes-Three-Tier-DevSecOps-Project
